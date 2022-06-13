@@ -17,7 +17,7 @@ Generate Pyrogram String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/TG-String-Session/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Popay-ckl/TG-String-Session//tree/main)
 
 ## Support Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -31,7 +31,7 @@ This was First made by [Krishna Singhal](https://github.com/Krishna-Singhal). Th
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Popay-ckl"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
